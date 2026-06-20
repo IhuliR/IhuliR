@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Ilia Roshchin
+# Hi, I'm Ilia Roshchin 🦊
 
 Python backend developer focused on Django, REST APIs and production-ready web applications.
 
