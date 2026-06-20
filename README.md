@@ -1,36 +1,40 @@
 # Hi, I'm Ilia Roshchin 🦊
 
-Python backend developer focused on Django, REST APIs and production-ready web applications.
+Python backend developer focused on Django, REST APIs and deployed web applications.
 
-I started learning backend development in July 2025 and now build full-stack projects with a strong backend focus: database design, API architecture, authentication, permissions, Docker-based deployment, Nginx and Gunicorn.
+I started learning backend development in July 2025 and now build projects with a strong backend focus: database design, API architecture, authentication, permissions, testing, Docker-based deployment, Nginx and Gunicorn.
 
 My main language is Python. Some of my repositories contain a larger share of JavaScript because they include frontend code for deployed full-stack applications.
 
-## 🚀 Skills and technologies
+## 🛠 Skills and technologies
 
 ### Backend
+
 <p>
   <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-5.x-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-API-ff1709?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-access%2Frefresh_tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Asyncio-basics-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-basics-000000?style=flat-square&logo=flask&logoColor=white" />
 </p>
 
 ### Testing
+
 <p>
   <img src="https://img.shields.io/badge/Pytest-tests-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Unittest-standard_library-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ### Databases
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
 ### DevOps
+
 <p>
   <img src="https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_Compose-orchestration-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -43,6 +47,7 @@ My main language is Python. Some of my repositories contain a larger share of Ja
 </p>
 
 ### Frontend basics
+
 <p>
   <img src="https://img.shields.io/badge/HTML-markup-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-styling-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -51,6 +56,7 @@ My main language is Python. Some of my repositories contain a larger share of Ja
 </p>
 
 ### AI-assisted workflow
+
 <p>
   <img src="https://img.shields.io/badge/Codex-frontend_&_integration_support-111111?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-debugging_&_learning-111111?style=flat-square&logo=openai&logoColor=white" />
@@ -110,8 +116,8 @@ My main language is Python. Some of my repositories contain a larger share of Ja
 
 Backend repository for a team project: a platform for finding teammates and managing project roles.
 
-**My role:** team lead / backend developer.  
-**Focus:** API architecture, database models, user roles, permissions, JWT authentication, project membership logic.
+**My role:** team lead / backend developer.
+**Focus:** API architecture, database models, user roles, permissions, JWT authentication and project membership logic.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -121,11 +127,11 @@ Backend repository for a team project: a platform for finding teammates and mana
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-- Designed backend data models for users, projects, roles, skills and memberships
-- Implemented role-based access logic for participants, project owners, moderators and admins
-- Worked with JWT-based authentication using access and refresh tokens
-- Built REST API endpoints with Django REST Framework
-- Coordinated backend decisions with frontend/design requirements
+* Designed backend data models for users, projects, roles, skills and memberships
+* Implemented role-based access logic for participants, project owners and admins
+* Worked with JWT-based authentication using access and refresh tokens
+* Built REST API endpoints with Django REST Framework
+* Coordinated backend decisions with frontend and design requirements
 
 <p>
   <a href="https://github.com/IhuliR/teamlab_backend">Repository</a>
@@ -133,12 +139,12 @@ Backend repository for a team project: a platform for finding teammates and mana
 
 ## What I'm looking for
 
-I'm looking for a junior Python backend developer role where I can work with Django, APIs, databases and production web services.
+I'm looking for a junior Python backend developer role where I can work with Django, REST APIs, databases and deployed web services.
 
 I value clean architecture, readable code, thoughtful communication and steady growth.
 
 ## Contacts
 
-- GitHub: @IhuliR
-- Telegram: @ihulir
-- Email: neo-ily81@yandex.ru
+* GitHub: @IhuliR
+* Telegram: @ihulir
+* Email: [neo-ily81@yandex.ru](mailto:neo-ily81@yandex.ru)
