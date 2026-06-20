@@ -58,37 +58,80 @@ My main language is Python. Some of my repositories contain a larger share of Ja
   <img src="https://img.shields.io/badge/ChatGPT-debugging_&_learning-111111?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-## 📊 GitHub stats
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Formaslov</h3>
+      <p>
+        Text annotation web application for qualitative research and linguistic analysis.
+      </p>
+      <p>
+        <b>My focus:</b> backend architecture, REST API, authentication, permissions,
+        Docker deployment, frontend-backend integration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://forma-slov.ru">Live demo</a> ·
+        <a href="https://github.com/IhuliR/formaslov">Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Foodgram</h3>
+      <p>
+        Recipe sharing service with users, recipes, ingredients, favorites,
+        subscriptions and shopping lists.
+      </p>
+      <p>
+        <b>My focus:</b> REST API, database models, permissions, Docker,
+        Gunicorn, Nginx and production deployment.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://foodgramir.ru/recipes">Live demo</a> ·
+        <a href="https://github.com/IhuliR/foodgram">Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### TeamLab
+
+Backend repository for a team project: a platform for finding teammates and managing project roles.
+
+**My role:** team lead / backend developer.  
+**Focus:** API architecture, database models, user roles, permissions, JWT authentication, project membership logic.
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IhuliR&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-access%2Frefresh_tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-## Featured projects
+- Designed backend data models for users, projects, roles, skills and memberships
+- Implemented role-based access logic for participants, project owners, moderators and admins
+- Worked with JWT-based authentication using access and refresh tokens
+- Built REST API endpoints with Django REST Framework
+- Coordinated backend decisions with frontend/design requirements
 
-### Formaslov
-
-A text annotation web application for qualitative research and linguistic analysis.
-
-- Built backend architecture with Django and Django REST Framework
-- Designed API structure, models, permissions and authentication flow
-- Added Docker-based deployment with Gunicorn and Nginx
-- Integrated frontend and backend into a working deployed application
-- Used AI tools mainly for frontend work and integration while keeping backend architecture under my own control
-
-**Stack:** Python, Django, DRF, React, Docker, Gunicorn, Nginx
-
-### Foodgram
-
-A recipe sharing service with users, recipes, ingredients, favorites, subscriptions and shopping lists.
-
-- Implemented REST API with Django REST Framework
-- Designed database models and relationships
-- Added authentication, permissions and user scenarios
-- Configured Docker, Gunicorn, Nginx and production deployment
-- Set up project infrastructure for a portfolio-ready web application
-
-**Stack:** Python, Django, DRF, PostgreSQL, Docker, Nginx, Gunicorn
+<p>
+  <a href="https://github.com/IhuliR/teamlab_backend">Repository</a>
+</p>
 
 ## What I'm looking for
 
