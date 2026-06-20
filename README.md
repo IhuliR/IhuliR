@@ -52,5 +52,5 @@ I value clean architecture, readable code, thoughtful communication and steady g
 ## Contacts
 
 - GitHub: @IhuliR
-- Telegram: @...
-- Email: ...
+- Telegram: @ihulir
+- Email: neo-ily81@yandex.ru
