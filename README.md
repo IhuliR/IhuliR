@@ -122,10 +122,11 @@ My main language is Python. Some of my repositories contain a larger share of Ja
 
 ### TeamLab
 
-Backend repository for a team project: a platform for finding teammates and managing project roles.
+Independent product project developed by a small team: a platform for finding teammates and forming teams for pet, educational and non-commercial projects.
 
-**My role:** team lead / backend developer.  
-**Focus:** API architecture, database models, user roles, permissions, JWT authentication and project membership logic.
+**My role:** Team Lead / Backend Developer
+**Team:** 1 designer, 3 frontend developers, and me
+**Focus:** backend architecture, domain modeling, REST API design and implementation, and coordination with frontend and design
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -135,14 +136,19 @@ Backend repository for a team project: a platform for finding teammates and mana
 </p>
 
 * Designed backend data models for users, projects, roles, skills and memberships
+* Designed and implemented the REST API with Django REST Framework
 * Implemented role-based access logic for participants, project owners and admins
-* Worked with JWT-based authentication using access and refresh tokens
-* Built REST API endpoints with Django REST Framework
-* Coordinated backend decisions with frontend and design requirements
+* Implemented JWT-based authentication with access and refresh tokens
+* Coordinated backend architecture and API contracts with frontend and design requirements
+
+The core backend is implemented; the current development stage is focused mainly on frontend development and API integration.
 
 <p>
-  <a href="https://github.com/IhuliR/teamlab_backend">Repository</a>
+  <a href="https://github.com/IhuliR/teamlab_backend">Backend repository</a>
+  ·
+  <a href="https://github.com/distinkt-dd/TeamLab-Frontend">Frontend repository</a>
 </p>
+
 
 ## What I'm looking for
 
