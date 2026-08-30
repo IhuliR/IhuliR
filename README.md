@@ -1,10 +1,10 @@
 # Hi, I'm Ilia Roshchin 🦊
 
-Python backend developer focused on Django, FastAPI, REST APIs and deployed web applications.
+Python backend developer focused on Django, REST APIs and production-oriented backend services.
 
-I started learning backend development in July 2025 and now build projects with a strong backend focus: database design, API architecture, authentication, permissions, testing, background tasks, message brokers, caching and containerized deployment.
+I work with backend development across API design, database modeling, authentication and permissions, testing, background tasks, caching, monitoring and containerized deployment.
 
-My main language is Python. Some of my repositories contain a larger share of JavaScript because they include frontend code for deployed full-stack applications.
+My main language is Python. Some of my repositories contain a larger share of JavaScript because they include frontend code for full-stack applications.
 
 ## 🛠 Skills and technologies
 
@@ -17,10 +17,8 @@ My main language is Python. Some of my repositories contain a larger share of Ja
   <img src="https://img.shields.io/badge/FastAPI-basics-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic-basics-E92063?style=flat-square&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-basics-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-basics-37814A?style=flat-square&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-access%2Frefresh_tokens-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Asyncio-basics-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-basics-000000?style=flat-square&logo=flask&logoColor=white" />
 </p>
 
 ### Testing
@@ -34,17 +32,20 @@ My main language is Python. Some of my repositories contain a larger share of Ja
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-database-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-basics-FF4438?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-basics-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-caching-FF4438?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-background_tasks-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-message_broker-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-database-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-### DevOps
+### DevOps & Monitoring
 
 <p>
   <img src="https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-orchestration-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-multi--container_apps-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-basics-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-monitoring-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-dashboards-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-reverse_proxy-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Gunicorn-WSGI-499848?style=flat-square&logo=gunicorn&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-server-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -66,7 +67,6 @@ My main language is Python. Some of my repositories contain a larger share of Ja
 
 <p>
   <img src="https://img.shields.io/badge/Codex-frontend_&_integration_support-111111?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-debugging_&_learning-111111?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ## 🚀 Featured projects
@@ -124,8 +124,8 @@ My main language is Python. Some of my repositories contain a larger share of Ja
 
 Independent product project developed by a small team: a platform for finding teammates and forming teams for pet, educational and non-commercial projects.
 
-**My role:** Team Lead / Backend Developer
-**Team:** 1 designer, 3 frontend developers, and me
+**My role:** Team Lead / Backend Developer  
+**Team:** 1 designer, 3 frontend developers, and me  
 **Focus:** backend architecture, domain modeling, REST API design and implementation, and coordination with frontend and design
 
 <p>
@@ -141,7 +141,7 @@ Independent product project developed by a small team: a platform for finding te
 * Implemented JWT-based authentication with access and refresh tokens
 * Coordinated backend architecture and API contracts with frontend and design requirements
 
-The core backend is implemented; the current development stage is focused mainly on frontend development and API integration.
+The core backend is implemented; the current stage focuses on frontend integration and further product development.
 
 <p>
   <a href="https://github.com/IhuliR/teamlab_backend">Backend repository</a>
@@ -152,9 +152,9 @@ The core backend is implemented; the current development stage is focused mainly
 
 ## What I'm looking for
 
-I'm looking for a junior Python backend developer role where I can work with Django or FastAPI, REST APIs, PostgreSQL and production-oriented backend services.
+I'm looking for a Python Backend Developer role focused on Django or FastAPI, REST APIs, PostgreSQL and production-oriented backend services.
 
-I value clean architecture, readable code, thoughtful communication and steady growth.
+I value clean architecture, readable code, thoughtful communication and continuous technical growth.
 
 ## Contacts
 
